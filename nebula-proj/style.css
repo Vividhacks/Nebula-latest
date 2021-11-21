@@ -236,16 +236,15 @@ body {
 }
 
 .details {
-    max-width: calc(100% - 124px);
     margin-top: 6rem;
-    margin-left: 14px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+    text-align: center;
 }
 
 .details h2 {
-    font-size: 22px;
+    font-size: 32px;
     margin-block-start: 0;
     margin-block-end: 0;
 }
@@ -269,12 +268,8 @@ body {
     margin-bottom: 0;
 }
 
-.media {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-}
-
 .media i {
+    margin: 0 14px;
     font-size: 25px;
     color: rgb(186, 186, 186);
 }
