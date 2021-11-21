@@ -2,7 +2,7 @@
 Our inspiration came from the theme itself "Astro" which is related to the galaxy, space, and the universe. 
 
 ## What it does 😯
-Nebula is a site wherein you can see the 3d model of the solar system. It also has an AI that you can chat with and ask some questions.
+Nebula is a site wherein you can see the 3d model of the solar system. It also has an AI based on real life astronomers, astronauts and astrophysicists that you can chat with and ask some questions.
 
 ## How we built it 🏗️
 It's mainly made with vite and three.js for the 3d models, pure CSS for the other things such as our about us page, chatbox, and some other site components. The AI chat is made with python.
