@@ -191,6 +191,19 @@ body {
     border-radius: 7px;
 }
 
+.chat h2,
+p {
+    text-align: center;
+    color: #aeaeae;
+    font-weight: 200;
+    letter-spacing: 1px;
+    margin: 15px 8px;
+}
+
+.chat span {
+    font-weight: bold;
+}
+
 
 /* about */
 
@@ -267,6 +280,7 @@ body {
 
 .about-dev p {
     margin-bottom: 0;
+    text-align: left;
 }
 
 .media i {
