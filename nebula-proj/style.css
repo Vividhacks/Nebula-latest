@@ -222,6 +222,7 @@ body {
 }
 
 .abt img {
+    background-color: #313131;
     border-radius: 50%;
     overflow: hidden;
     border: 6px solid #FFFFFF;
@@ -231,7 +232,7 @@ body {
     height: 144px;
     position: absolute;
     z-index: 10;
-    margin-left: 6.8rem;
+    margin-left: 7.1rem;
     top: 13.5rem;
 }
 
