@@ -1,1 +1,8 @@
 node_modules
+package-lock.json
+nebula-proj/node_modules
+nebula-proj/.DS_Store
+nebula-proj/dist
+nebula-proj/dist-ssr
+nebula-proj/*.local
+nebula-proj/package-lock.json
